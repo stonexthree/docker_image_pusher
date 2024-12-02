@@ -1,1 +1,2 @@
 nginx
+clickhouse:24.10.2.80
