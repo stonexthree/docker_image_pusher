@@ -1,2 +1,4 @@
-nginx
-clickhouse:24.10.2.80
+#nginx
+#clickhouse:24.10.2.80
+openjdk:17-jdk
+--platform=linux/amd64
