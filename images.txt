@@ -3,3 +3,4 @@
 openjdk:17-jdk
 openjdk:8-jre-alpine3.7
 docker.elastic.co/elasticsearch/elasticsearch:8.6.2
+redis:7.4.2
