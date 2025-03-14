@@ -9,3 +9,4 @@ apache/kafka:3.7.2
 nacos/nacos-server:v2.5.1
 flyway/flyway:11.4
 minio/mc:RELEASE.2025-03-12T17-29-24Z
+python:3.14.0a5
