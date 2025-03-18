@@ -1,1 +1,1 @@
-bitnami/kafka:3.3.2
+centos:centos7.6.1810
