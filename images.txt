@@ -1,1 +1,1 @@
-busybox:1.37.0
+--platform=linux/arm64/v8 ubuntu:22.04
