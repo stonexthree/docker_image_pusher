@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+minio/minio:RELEASE.2023-04-28T18-11-17Z.fips
