@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-04-28T18-11-17Z.fips
+--platform=linux/arm64/v8 redis:7.4.2
