@@ -1,3 +1,4 @@
---platform=linux/arm64 elasticsearch:8.6.2
---platform=linux/arm64 mysql:8.3.0
---platform=linux/arm64 minio/minio:RELEASE.2025-03-12T18-04-18Z
+--platform=linux/arm64 apache/kafka:3.7.2
+--platform=linux/arm64 nacos/nacos-server:v2.5.1
+--platform=linux/arm64/v8 clickhouse:24.10.2.80
+--platform=linux/arm64 pgvector/pgvector:pg17
