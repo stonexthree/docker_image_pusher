@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2023-10-24T04-42-36Z
+linux/arm64/v8 nginx:1.27.3
