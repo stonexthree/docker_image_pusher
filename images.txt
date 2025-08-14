@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 nginx:1.27.3
+--platform=linux/amd64 clickhouse/clickhouse-keeper:24.10.2.80
