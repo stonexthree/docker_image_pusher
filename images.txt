@@ -1,1 +1,1 @@
---platform=linux/amd64 clickhouse/clickhouse-keeper:24.10.2.80
+fauria/vsftpd:latest
