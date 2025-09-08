@@ -1,1 +1,1 @@
-aarch64/alpine:3.5
+--platform linux/arm64/v8 alpine:3.22.1
