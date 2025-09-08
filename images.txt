@@ -1,1 +1,1 @@
---platform linux/arm64 openvpn/openvpn-as:2.14.3-5936bcd7-Ubuntu24
+aarch64/alpine:3.5
