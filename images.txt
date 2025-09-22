@@ -1,1 +1,1 @@
---platform linux/arm64/v8 alpine:3.22.1
+--platform linux/arm64/v8 ubuntu:20.10
