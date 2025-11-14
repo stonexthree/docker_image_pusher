@@ -1,1 +1,1 @@
-couchdb:2.3.1
+mysql:8.3.0
