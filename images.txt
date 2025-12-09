@@ -1,1 +1,1 @@
-mysql:8.3.0
+gitlab/gitlab-ce:18.6.1-ce.0
