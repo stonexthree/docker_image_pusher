@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:bleeding
+gitlab/gitlab-runner-helper:x86_64-bleeding-servercore1809
