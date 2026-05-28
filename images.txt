@@ -1,1 +1,2 @@
-clickhouse:25.8
+alpine/ansible:2.20.0
+coredns/coredns:1.14.3
