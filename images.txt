@@ -1,2 +1,1 @@
-alpine/ansible:2.20.0
-coredns/coredns:1.14.3
+registry:3.1.1
