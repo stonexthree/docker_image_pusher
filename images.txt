@@ -1,1 +1,2 @@
---platform linux/arm64/v8 busybox:1.38.0
+--platform linux/arm64/v8 alpine:3.23
+alpine:3.23
